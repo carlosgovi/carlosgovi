@@ -16,6 +16,8 @@ Soy un desarrollador web con experiencia en las siguientes tecnologías:
 - 🔥 Firebase
 - 🗄 PostgreSQL
 - 📁 Git
+
+
 Me especializo en el desarrollo de aplicaciones web y móviles utilizando estas tecnologías, y me encanta trabajar en proyectos que involucren una combinación de ellas. También soy un gran defensor del código limpio y de buenas prácticas de programación.
 
 En mi tiempo libre, me gusta seguir aprendiendo sobre nuevas tecnologías y tendencias en el mundo del desarrollo web, y también disfruto de colaborar en proyectos de código abierto.
