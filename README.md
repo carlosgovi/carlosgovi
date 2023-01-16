@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 Perfil de GitHub
 Soy un desarrollador web con experiencia en las siguientes tecnologías:
 
@@ -21,4 +21,4 @@ Me especializo en el desarrollo de aplicaciones web y móviles utilizando estas 
 En mi tiempo libre, me gusta seguir aprendiendo sobre nuevas tecnologías y tendencias en el mundo del desarrollo web, y también disfruto de colaborar en proyectos de código abierto.
 
 Si estás interesado en trabajar juntos en un proyecto, no dudes en ponerte en contacto conmigo a través de mi perfil de GitHub. Estoy ansioso de colaborar y aprender juntos!
--->
+
