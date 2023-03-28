@@ -10,6 +10,7 @@ Soy un desarrollador web con experiencia en las siguientes tecnologías:
 - 💻 TypeScript
 - 📚 POO (Programación Orientada a Objetos)
 - 🧱 MVC (Modelo-Vista-Controlador)
+- 🌐 Next.js
 - 🚀 Node.js
 - 🌐 API REST
 - 🛣 Express
